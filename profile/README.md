@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Go-1.27-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/license-BSD--3--Clause-0A6E96?style=flat-square">
-  <img src="https://img.shields.io/badge/stage-design-0079A8?style=flat-square">
+  <img src="https://img.shields.io/badge/stage-early-0079A8?style=flat-square">
 </p>
 
 ---
@@ -16,7 +16,8 @@ A Git forge small enough to read and strict enough to trust: repository
 hosting, a web UI, an administration API over gRPC with FIDO2 on the
 privileged operations, and Actions runners scheduled through GARM.
 
-**It is at the design stage.** The design is written down in
+**It is early.** The admin gRPC API and its CLI are implemented; hosting,
+sign-in and the web UI are still design only. The design is written down in
 [`forge/docs/design.md`](https://github.com/go-vcs/forge/blob/main/docs/design.md);
 what is not built yet is not described here as if it were.
 
