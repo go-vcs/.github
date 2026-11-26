@@ -28,6 +28,7 @@ what is not built yet is not described here as if it were.
 | <img src="https://raw.githubusercontent.com/go-vcs/brand/main/avatar/go-vcs-forge.png" width="36"> | [`forge`](https://github.com/go-vcs/forge) | Light, secure Git forge: hosting, web UI, admin gRPC, Actions runners via GARM. |
 | <img src="https://raw.githubusercontent.com/go-vcs/brand/main/avatar/go-vcs-gitproto.png" width="36"> | [`gitproto`](https://github.com/go-vcs/gitproto) | Git wire protocol v2 and pack files, fuzzed and measured against git. |
 | <img src="https://raw.githubusercontent.com/go-vcs/brand/main/avatar/go-vcs-actions.png" width="36"> | [`actions`](https://github.com/go-vcs/actions) | GitHub Actions workflow engine and gitea-runner protocol server. |
+| <img src="https://raw.githubusercontent.com/go-vcs/brand/main/avatar/go-vcs-agentd.png" width="36"> | [`agentd`](https://github.com/go-vcs/agentd) | Local daemon between many agent sessions and GitHub: one poller per commit, no token in an agent, merge only on a green exact head. |
 
 ## Links
 
