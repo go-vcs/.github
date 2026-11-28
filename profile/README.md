@@ -29,7 +29,7 @@ what is not built yet is not described here as if it were.
 | <img src="https://raw.githubusercontent.com/go-vcs/brand/main/avatar/go-vcs-forge.png" width="36"> | [`forge`](https://github.com/go-vcs/forge) | Light, secure Git forge: hosting, web UI, admin gRPC, Actions runners via GARM. |
 | <img src="https://raw.githubusercontent.com/go-vcs/brand/main/avatar/go-vcs-gitproto.png" width="36"> | [`gitproto`](https://github.com/go-vcs/gitproto) | Git wire protocol v2 (fetch side), v0.1.0: fuzzed, and 0.93 to 0.96 of the time of `git upload-pack` on a full clone. |
 | <img src="https://raw.githubusercontent.com/go-vcs/brand/main/avatar/go-vcs-actions.png" width="36"> | [`actions`](https://github.com/go-vcs/actions) | GitHub Actions workflow engine and gitea-runner protocol server. |
-| <img src="https://raw.githubusercontent.com/go-vcs/brand/main/avatar/go-vcs-agentd.png" width="36"> | [`agentd`](https://github.com/go-vcs/agentd) | Local daemon between many agent sessions and GitHub, v0.4.0: one poller per commit, no token in an agent, an object cache, `Materialize` and an event stream. |
+| <img src="https://raw.githubusercontent.com/go-vcs/brand/main/avatar/go-vcs-agentd.png" width="36"> | [`agentd`](https://github.com/go-vcs/agentd) | Local daemon between many agent sessions and GitHub, v0.4.1: one poller per commit, no token in an agent, an object cache, `Materialize` and an event stream. |
 
 ## Links
 
